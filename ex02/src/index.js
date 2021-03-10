@@ -1,5 +1,5 @@
-function main(){
-  // Only change code bellow this line
+function main() {
+  // Only change code below this line
   /* document.write("zadatak 2");
    */
 

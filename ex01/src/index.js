@@ -1,7 +1,7 @@
 function main(){
     // Only change code bellow this line
 console.log("Hello world!");
-    // Only change code bellow this line
+    // Only change code above this line
   
   }
   

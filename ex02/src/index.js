@@ -2,10 +2,10 @@ function main(){
   // Only change code bellow this line
   /* document.write("zadatak 2");
    */
-  
+
 console.log("Hello world!");
 
-  // Only change code bellow this line
+  // Only change code above this line
 
 }
 

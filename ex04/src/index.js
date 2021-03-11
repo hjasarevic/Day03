@@ -8,6 +8,6 @@ var x = y;
 
   }
   
-  main();
+  console.log(main());
   
   module.exports = main;
